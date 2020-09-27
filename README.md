@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi There 👋! My name is Vishal Sharma
 
-<!--
-**iamvishal345/iamvishal345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/iamvishal345) [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal345/) [![Gmail Badge](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishalagnihotri345@gmail.com)
 
-Here are some ideas to get you started:
+### About
+- **Working As:** Full Stack Developer in Infosys
+- **Technology Stack:** MERN Stack
+- **Learning :** Full-Stack Development with Python :zap: | Open-Source :fire: | Micro Service and Serverless Architecture 🌱
+- **Languages :** JavaScript,Python
+- **Framework and Libraries :** ReactJS, Lit Element, Angular 6, Redux, Gatsby, Node+Express, Flask(Beginner), Jest+Enzyme, Firebase
+- **Database :** MongoDB, MySQL, Firestore
+- **Hobbies :** Articles & Music & Trekking :headphones:
+- **Fact :** First solve the problem, then write the code :heart:
+- **Organization :** CodeEntity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+![github stats](https://github-readme-stats.vercel.app/api?username=iamvishal345&show_icons=true)
+
+---
