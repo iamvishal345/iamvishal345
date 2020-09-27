@@ -1,4 +1,4 @@
-### Hi There 👋! My name is Vishal Sharma
+### Hi There! 👋 My name is Vishal Sharma
 
 ## [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/iamvishal345) [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal345/) [![Gmail Badge](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishalagnihotri345@gmail.com)
 
