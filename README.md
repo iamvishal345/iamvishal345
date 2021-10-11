@@ -21,6 +21,6 @@
 
 ---
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/rebelchris/rebelchris/blob/master/devcard.svg" width="400" alt="Vishal Sharma's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/iamvishal345/iamvishal345/blob/master/devcard.svg" width="400" alt="Vishal Sharma's Dev Card"/></a>
 
 ---
