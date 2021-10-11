@@ -18,3 +18,9 @@
 ![github stats](https://github-readme-stats.vercel.app/api?username=iamvishal345&show_icons=true)
 
 ---
+
+---
+
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/rebelchris/rebelchris/blob/master/devcard.svg" width="400" alt="Vishal Sharma's Dev Card"/></a>
+
+---
