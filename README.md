@@ -6,8 +6,8 @@
 - **Working As:** Full Stack Developer at Publicis Sapient
 - **Technology Stack:** MERN Stack
 - **Learning :** Full-Stack Development with Python :zap: | Open-Source :fire: | Micro Service and Serverless Architecture 🌱
-- **Languages :** JavaScript,Python
-- **Framework and Libraries :** ReactJS, Gatsby, Vue, Next, Lit Element, , Redux, Node+Express, Flask(Beginner), Go(Beginner), Jest+Enzyme, Firebase
+- **Languages :** JavaScript, Python, Go(Beginner)
+- **Framework and Libraries :** ReactJS, Gatsby, Vue, Next, Lit Element, , Redux, Node+Express, Flask(Beginner), Jest+Enzyme, Firebase
 - **Database :** MongoDB, MySQL, Firestore
 - **Hobbies :** Articles & Music & Trekking :headphones:
 - **Fact :** First solve the problem, then write the code :heart:
