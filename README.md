@@ -7,7 +7,7 @@
 - **Technology Stack:** MERN Stack
 - **Learning :** Full-Stack Development with Python :zap: | Open-Source :fire: | Micro Service and Serverless Architecture 🌱
 - **Languages :** JavaScript,Python
-- **Framework and Libraries :** ReactJS, Lit Element, Angular 6, Redux, Gatsby, Node+Express, Flask(Beginner), Jest+Enzyme, Firebase
+- **Framework and Libraries :** ReactJS, Gatsby, Vue, Next, Lit Element, , Redux, Node+Express, Flask(Beginner), Go(Beginner), Jest+Enzyme, Firebase
 - **Database :** MongoDB, MySQL, Firestore
 - **Hobbies :** Articles & Music & Trekking :headphones:
 - **Fact :** First solve the problem, then write the code :heart:
