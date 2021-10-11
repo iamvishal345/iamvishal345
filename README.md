@@ -15,8 +15,9 @@
 
 ---
 
-![github stats](https://github-readme-stats.vercel.app/api?username=iamvishal345&show_icons=true)
-![github stats](http://github-readme-streak-stats.herokuapp.com?user=iamvishal345&date_format=M%20j%5B%2C%20Y%5D&ring=5094F0&fire=5094F0&currStreakLabel=5094F0)
+![github stats](https://github-readme-stats.vercel.app/api?username=iamvishal345&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515)
+![github contributions](http://github-readme-streak-stats.herokuapp.com?user=iamvishal345&date_format=M%20j%5B%2C%20Y%5D&ring=5094F0&fire=5094F0&currStreakLabel=5094F0)
+![github top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamvishal345&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515)
 
 ---
 
